@@ -18,7 +18,7 @@ Before using this repository, you should have:
 ## Setup Instructions
 
 ### 1. Spark Cluster Deployment
-A Spark cluster should already be deployed for you. However, if you want to learn how to deploy a cluster yourself, follow the [Spark Cluster Deployment Guide](https://github.com/usamazf/DE1-Spark/blob/main/D1-2026/guides/spark_cluster_deployment.txt).
+A Spark cluster should already be deployed for you. However, if you want to learn how to deploy a cluster yourself, follow the [Spark Cluster Deployment Guide](https://github.com/usamazf/DE1-Spark/blob/main/DE1-2026/guides/spark_cluster_deployment.txt).
 
 ### 2. Spark Driver VM Setup
 To run the notebooks and submit applications to the Spark cluster, you need to set up your Spark driver VM. Follow the [Spark Driver VM Deployment Instructions](https://github.com/usamazf/DE1-Spark/blob/main/DE1-2026/guides/spark-driver-deploy-instruction.md). Make sure to customize the setup to fit your environment.
